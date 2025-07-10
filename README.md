@@ -9,13 +9,13 @@
 
 - **Home Screen**
 <p>
-	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464459331-45d71101-da35-4785-9eb6-ac42acef7de7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T015949Z&X-Amz-Expires=300&X-Amz-Signature=7b92e9ddfd126c79edfcc35e6c36b949bcf7529dab2f6682eaa767054f08c435&X-Amz-SignedHeaders=host" height="400" style="margin-right: 20px;"/>
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464459402-c35f8b3e-182e-4cda-9bf3-7ba8de8079c0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T020454Z&X-Amz-Expires=300&X-Amz-Signature=efdd6eb091856c30a030a4bad4b5918203ad0cbeaf414fced3c9e6d037330125&X-Amz-SignedHeaders=host" height="400" />
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464462050-04172d8a-9f27-4e76-975b-bcf40a261819.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T021227Z&X-Amz-Expires=300&X-Amz-Signature=74c63d927cad6c371b16ca354b00d77aeae68a8214dbc52b7724bcbb16d05d5a&X-Amz-SignedHeaders=host" height="400" style="margin-right: 20px;"/>
+   	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464462073-b305afc1-76c7-4e34-91cb-bb71fee36806.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T021203Z&X-Amz-Expires=300&X-Amz-Signature=da3caf72d89fffc8c47241d958935495e74c7ecc537f41b7cbaa78a91d03dcd7&X-Amz-SignedHeaders=host" height="400" />
 </p>
 
 - **Search Screen**
 <p>
-	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464459385-c4008ef8-c0dc-4e67-85a4-07d60c63a4a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T020512Z&X-Amz-Expires=300&X-Amz-Signature=d213707dc576d30ae6533f5437b5de58c830eb89b2fb7d7a55c3d8964b5bdbd8&X-Amz-SignedHeaders=host" height="400" style="margin-right: 20px;"/>
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83504674/464462098-70ea48a2-cbb7-4ffd-8158-d3cbc95bbfed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250710%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250710T021249Z&X-Amz-Expires=300&X-Amz-Signature=ed6fbdf6d4b0a81d16e004473e329a6d91ec107cec1cb0ef7880e2a5c90b1905&X-Amz-SignedHeaders=host" height="400" style="margin-right: 20px;"/>
 </p>
 
 - **Detail Screen**
